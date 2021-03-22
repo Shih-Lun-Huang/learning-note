@@ -10,3 +10,5 @@
 #### (三) Kaggle 競賽
  - Ghouls, Goblins, and Ghosts... Boo! 
 	連結：https://www.kaggle.com/c/ghouls-goblins-and-ghosts-boo/overview
+ - House Prices - Advanced Regression Techniques
+	連結：https://www.kaggle.com/c/house-prices-advanced-regression-techniques
