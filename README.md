@@ -1,1 +1,12 @@
-## 我的學習歷程
+## 我的學習歷程(自訂)
+
+#### 學習歷程包含：
+
+#### (一)	Python 課堂筆記
+
+#### (二) Kaggle courses 學習筆記
+ - Kaggle Courses 連結: https://www.kaggle.com/learn/overview
+
+#### (三) Kaggle 競賽
+ - Ghouls, Goblins, and Ghosts... Boo! 
+	連結：https://www.kaggle.com/c/ghouls-goblins-and-ghosts-boo/overview
