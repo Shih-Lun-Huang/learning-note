@@ -1,7 +1,6 @@
-## LeetCode練習
-
 ## LeetCode 練習
 網址: https://leetcode.com/problemset/all/
+
 | # | Title | Difficulty | My solution |
 | :------: | :------: | :------: | :------: |
 | 1 | [Two Sum][#1] | Easy | [Python][sol#1] |
