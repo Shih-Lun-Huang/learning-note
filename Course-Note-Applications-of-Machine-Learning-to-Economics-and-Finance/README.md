@@ -5,3 +5,5 @@
 - L3 - numpy/pandas基本操作
 - L4 - 資料視覺化 - Matplotlib/Seaborn
 - L5 - 資料匯入/匯出、dataframe合併、爬蟲
+- L6 - Simple Linear Regression、Logistic Regression、Underfitting and Overfitting 原因及解決方法
+- L7 - 統計假設檢定、交叉驗證、模型評估
