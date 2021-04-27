@@ -10,6 +10,7 @@
 | 14 | [Longest Common Prefix][#14] | Easy | [Python][sol#14] |
 | 27 | [Remove Element][#27] | Easy | [Python][sol#27] |
 | 657 | [Robot Return to Origin][#657] | Easy | [Python][sol#657] |
+| 709 | [To Lower Case][#709] | Easy | [Python][sol#709] |
 | 728 | [Self Dividing Numbers][#728] | Easy | [Python][sol#728] |
 | 804 | [Unique Morse Code Words][#804] | Easy | [Python][sol#804] |
 | 1108 | [Defanging an IP Address    ][#1108] | Easy | [Python][sol#1108] |
@@ -34,6 +35,7 @@
 [#14]: <https://leetcode.com/problems/longest-common-prefix>
 [#27]: <https://leetcode.com/problems/remove-element>
 [#657]: <https://leetcode.com/problems/robot-return-to-origin>
+[#709]: <https://leetcode.com/problems/to-lower-case>
 [#728]: <https://leetcode.com/problems/self-dividing-numbers>
 [#804]: <https://leetcode.com/problems/unique-morse-code-words>
 [#1108]: <https://leetcode.com/problems/defanging-an-ip-address>
@@ -55,21 +57,25 @@
 [sol#9]: <https://github.com/Shih-Lun-Huang/learning-note/blob/master/LeetCode%E7%B7%B4%E7%BF%92/%239%20Palindrome%20Number.ipynb>
 [sol#13]: <https://github.com/Shih-Lun-Huang/learning-note/blob/master/LeetCode%E7%B7%B4%E7%BF%92/%2313%20Roman%20to%20Integer.ipynb>
 [sol#14]: <https://github.com/Shih-Lun-Huang/learning-note/blob/master/LeetCode%E7%B7%B4%E7%BF%92/%2314%20Longest%20Common%20Prefix.ipynb>
-[sol#27]: <>
+[sol#27]: <https://github.com/Shih-Lun-Huang/learning-note/blob/master/LeetCode%E7%B7%B4%E7%BF%92/%2327%20Remove%20Element%20%20%20%20.ipynb>
 [sol#657]: <https://github.com/Shih-Lun-Huang/learning-note/blob/master/LeetCode%E7%B7%B4%E7%BF%92/%23657%20Robot%20Return%20to%20Origin.ipynb>
+[sol#709]: <https://github.com/Shih-Lun-Huang/learning-note/blob/master/LeetCode%E7%B7%B4%E7%BF%92/%23709%20To%20Lower%20Case.ipynb>
 [sol#728]: <https://github.com/Shih-Lun-Huang/learning-note/blob/master/LeetCode%E7%B7%B4%E7%BF%92/%23728%20Self%20Dividing%20Numbers.ipynb>
 [sol#804]: <https://github.com/Shih-Lun-Huang/learning-note/blob/master/LeetCode%E7%B7%B4%E7%BF%92/%23804%20Unique%20Morse%20Code%20Words.ipynb>
-[#sol1108]:  <>
-[#sol1282]:  <>
+[sol#1108]:  <https://github.com/Shih-Lun-Huang/learning-note/blob/master/LeetCode%E7%B7%B4%E7%BF%92/%231108%20Defanging%20an%20IP%20Address.ipynb>
+[sol#1282]:  <https://github.com/Shih-Lun-Huang/learning-note/blob/master/LeetCode%E7%B7%B4%E7%BF%92/%231282%20Group%20the%20People%20Given%20the%20Group%20Size%20They%20Belong%20To.ipynb>
 [sol#1299]: <https://github.com/Shih-Lun-Huang/learning-note/blob/master/LeetCode%E7%B7%B4%E7%BF%92/%231299%20Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side.ipynb>
-[#sol1304]: <>
+[sol#1304]: <https://github.com/Shih-Lun-Huang/learning-note/blob/master/LeetCode%E7%B7%B4%E7%BF%92/%231304%20Find%20N%20Unique%20Integers%20Sum%20up%20to%20Zero.ipynb>
 [sol#1337]: <https://github.com/Shih-Lun-Huang/learning-note/blob/master/LeetCode%E7%B7%B4%E7%BF%92/%231337%20The%20K%20Weakest%20Rows%20in%20a%20Matrix.ipynb>
 [sol#1460]: <https://github.com/Shih-Lun-Huang/learning-note/blob/master/LeetCode%E7%B7%B4%E7%BF%92/%231460%20Make%20Two%20Arrays%20Equal%20by%20Reversing%20Sub-arrays.ipynb>
 [sol#1480]: <https://github.com/Shih-Lun-Huang/learning-note/blob/master/LeetCode%E7%B7%B4%E7%BF%92/%231480%20running-sum-of-1d-array.ipynb>
-[#sol1672]: <>
-[#sol1678]: <>
-[#sol1732]: <>
+[sol#1672]: <https://github.com/Shih-Lun-Huang/learning-note/blob/master/LeetCode%E7%B7%B4%E7%BF%92/%231672%20Richest%20Customer%20Wealth.ipynb>
+[sol#1678]: <https://github.com/Shih-Lun-Huang/learning-note/blob/master/LeetCode%E7%B7%B4%E7%BF%92/%231678%20Goal%20Parser%20Interpretation.ipynb>
+[sol#1732]: <https://github.com/Shih-Lun-Huang/learning-note/blob/master/LeetCode%E7%B7%B4%E7%BF%92/%231732%20Find%20the%20Highest%20Altitude.ipynb>
 [sol#1742]: <https://github.com/Shih-Lun-Huang/learning-note/blob/master/LeetCode%E7%B7%B4%E7%BF%92/%231742%20Maximum%20Number%20of%20Balls%20in%20a%20Box.ipynb>
 [sol#1817]: <https://github.com/Shih-Lun-Huang/learning-note/blob/master/LeetCode%E7%B7%B4%E7%BF%92/%231817%20Finding%20the%20Users%20Active%20Minutes.ipynb>
 
+<br>
+
+:>
 
